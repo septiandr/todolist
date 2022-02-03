@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "todolist",
+    "slug": "todolist",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/unnamed.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/unnamed.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "risanggalih.todolist",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
